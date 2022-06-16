@@ -1,6 +1,6 @@
 # A place for various Spring use cases
 
-The idea is to have ready to use examples which can be easily incorporated into your project.
+Ready to use examples which can be easily incorporated into your project.
 
 ## Structure
 
